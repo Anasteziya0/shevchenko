@@ -2,5 +2,5 @@
 
 *Как запустить приложение*  
 ```
-npm run build
+npm run dev
 ```
